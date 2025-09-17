@@ -1,0 +1,7 @@
+Flask
+streamlit
+pandas
+prophet
+numpy
+jinja2
+streamlit-gchart
